@@ -11,6 +11,14 @@
   "engines": {
     "node": ">=10"
   },
+  "keywords": [
+    "otp",
+    "input",
+    "passcode",
+    "react-otp-input",
+    "autofill"
+  ],
+  "homepage": "devfolioco.github.io/react-otp-input",
   "scripts": {
     "build": "microbundle-crl --no-compress --format modern,cjs",
     "start": "microbundle-crl watch --no-compress --format modern,cjs",
